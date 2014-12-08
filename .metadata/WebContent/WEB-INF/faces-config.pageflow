@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf14161997991170" configfile="/Practica1_Ahorcado/WebContent/WEB-INF/faces-config.xml">
+  <nodes xsi:type="pageflow:PFPage" name="index.xhtml" x="84" y="122" id="pf14162017471321" outlinks="pf14162017471322" path="/index.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="Juego.html" x="296" y="122" id="pf14162017471323" inlinks="pf14162017471322" path="/Juego.html"/>
+  <links id="pf14162017471322" target="pf14162017471323" source="pf14162017471321" outcome="login"/>
+</pageflow:Pageflow>
